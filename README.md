@@ -6,6 +6,7 @@ Real-time Embedded Firmware".
 <p align="center">
 <img src="./Figures/firmware_arch_distribution.jpg" alt="arch" style="width:300px;" title="Architecture type"/>
 <img src="./Figures/firmware_os_distribution.jpg" alt="os" style="width:300px;" title="OS type"/>
+
 <figcaption align = "center"><b>Fig.1 - Firmware distribution in terms of architecture (left) and OS (right).</b></figcaption>
 </p>
 
