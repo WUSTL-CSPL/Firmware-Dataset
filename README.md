@@ -12,7 +12,16 @@ Real-time Embedded Firmware".
 <figcaption align="center"><b>Fig.1 - Firmware distribution in terms of OS (left) and architecture (right).</b></figcaption>
 </p>
 
+If you find our dataset helpful, please consider citing our papers. 
 
+```
+@inproceedings{wu2024firmware,
+  title={Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities},
+  author={Wu, Yuhao and Wang, Jinwen and Wang, Yujie and Zhai, Shixuan and Li, Zihan and He, Yi and Sun, Kun and Li, Qi and Zhang, Ning},
+  booktitle={USENIX Security Symposium},
+  year={2024}
+}
+```
 
 ```
 @inproceedings{wu2022measuring,
@@ -22,11 +31,4 @@ Real-time Embedded Firmware".
   year={2022}
 }
 ```
-```
-@inproceedings{wu2024firmware,
-  title={Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities},
-  author={Wu, Yuhao and Wang, Jinwen and Wang, Yujie and Zhai, Shixuan and Li, Zihan and He, Yi and Sun, Kun and Li, Qi and Zhang, Ning},
-  booktitle={USENIX Security Symposium},
-  year={2024}
-}
-```
+
